@@ -1,0 +1,101 @@
+actor,season 1,season 2,season 3,season 4,season 5,season 6,season 7
+Jon Snow,54.75,33.75,36,42.5,49.25,52,70
+Tyrion Lannister,52.75,65,50,47.75,44,34,43.5
+Daenerys Targaryen,54,38.75,30.75,27.5,41.75,28.75,54.5
+Sansa Stark,24,34,33.5,32.75,34.75,40.5,39
+Cersei Lannister,28,36.25,22,37.25,49.75,28.5,34.25
+Arya Stark,33.5,38.75,26.5,25.75,34.75,30,35
+Jaime Lannister,21,18.25,34.75,36,21.75,30.75,36.5
+Samwell Tarly,21.25,11.25,24,26,23.5,16,21.75
+Jorah Mormont,27.5,17.5,18.75,13.5,29.75,10.5,25
+Theon Greyjoy,16.75,40.25,22.5,12.25,15.5,16.5,12.5
+Petyr 'Littlefinger' Baelish,25.75,21.25,8.75,19,18.5,9,16.75
+Davos Seaworth,0,19.25,19,11.5,12.5,27.25,20.5
+Eddard 'Ned' Stark,92.5,0,0,0,0,7.25,0.25
+Bran Stark,25.75,13.25,16.75,12,0,18.25,13.25
+Brienne of Tarth,0,18,21.25,20,14.75,15.5,8
+Sandor 'The Hound' Clegane,6.75,11.75,16,28.5,0,9.75,22.5
+Lord Varys,19,14,15.75,6.5,10.5,16,12.5
+Catelyn Stark,42.25,24,16.5,0,0,0,0
+Tywin Lannister,10.25,17.25,21.25,28.5,1,0,0
+Margaery Tyrell,0,9.5,21.25,17.75,11.25,18.25,0
+Robb Stark,24.75,27.5,25.5,0,0,0,0
+Bronn,15,14.5,6.75,8.75,13.5,5.5,10.75
+Stannis Baratheon,0,19.75,14.25,10,29.25,0,0
+Joffrey Baratheon,17.75,17.5,20.25,14.75,0,0,0
+Melisandre,0,12.75,18,5.25,11.75,18,3
+Ramsay Bolton,0,0,12.75,13.5,18.5,21.25,0
+Missandei,0,0,11.5,9.5,13.25,11.5,16.5
+Gilly,0,3.25,13.5,9.25,11.75,15.25,2.5
+Tormund Giantsbane,0,0,8.75,7.25,12.25,13.5,13.75
+Ygritte,0,17.75,25,8.25,0,0,0
+Shae,8,16,14.5,8.75,0,0,0
+Daario Naharis,0,0,6.5,7.5,19.25,12.75,0
+Podrick Payne,0,3.75,5.5,16,9,7,3.25
+Olenna Tyrell,0,0,13.75,8,8,8.5,5.75
+Tommen Baratheon,0.75,4.25,0,9.75,11.5,17,0
+Grey Worm,0,0,5.5,6.5,10.25,10,10.5
+Gendry,2.75,9,17,0,0,0,10.5
+High Sparrow,0,0,0,0,17,20.5,0
+Barristan Selmy,8.75,0,13.5,7.75,7.25,0,0
+Grand Maester Pycelle,13.75,6.25,2.75,5.25,2.5,4.75,0
+Yara Greyjoy,0,10,2.75,2.25,0,12,5.25
+Loras Tyrell,5.75,8,6.25,1.75,4.5,5.75,0
+Talisa Maegyr,0,14.75,16,0,0,0,0
+Robert Baratheon,30.5,0,0,0,0,0,0
+Roose Bolton,0,3.5,8.75,5.75,9,3.25,0
+Osha,8,9.5,8.75,0,0,3.5,0
+Hodor,3,6,7,7,0,6.5,0
+Eddison Tollett,0,5,3.75,5.75,4.25,9.5,1
+Meera Reed,0,0,8.25,9.25,0,9.5,2.25
+Oberyn Martell,0,0,0,28.5,0,0,0
+Jaqen H'ghar,0,8,0,0,11.25,7.25,0
+Thoros of Myr,0,0,12.75,0,0,2.25,11.25
+Alliser Thorne,6.75,0,0,9.25,5.75,4.25,0
+Khal Drogo,22.75,2.25,0,0,0,0,0
+Beric Dondarrion,0.5,0,8.25,0,0,2.5,13.75
+Qyburn,0,0,5.75,2.25,4.25,7,5.5
+Ellaria Sand,0,0,0,6.75,8.75,3,5.75
+Gregor 'The Mountain' Clegane,2.5,1.75,0,4.75,0.5,9.25,5.5
+Renly Baratheon,9.5,14.5,0,0,0,0,0
+Maester Luwin,6.75,16.75,0,0,0,0,0
+Ros,8.25,10.25,3.25,0,0,0,0
+Grenn,6.25,5,3,7,0,0,0
+Mance Rayder,0,0,6.75,7,7.25,0,0
+Jeor Mormont,10,7,4,0,0,0,0
+Viserys Targaryen,20.5,0,0,0,0,0,0
+Maester Aemon,5.5,0,1.25,6,6.25,0,0
+Jojen Reed,0,0,9.75,9.25,0,0,0
+Lancel Lannister,3.25,6.5,0,0,4,5.25,0
+Shireen Baratheon,0,0,4,2.75,11.5,0,0
+Edmure Tully,0,0,10.5,0,0,7.25,0
+Euron Greyjoy,0,0,0,0,0,6.5,10.5
+Lysa Arryn,6,0,0,10.5,0,0,0
+Meryn Trant,3,2.75,1.25,1.75,7.25,0,0
+Brynden 'Blackfish' Tully,0,0,9.5,0,0,6.5,0
+Walder Frey,3,0,7,0,0,5.75,0
+Hot Pie,0.75,5.5,4.5,2,0,0,2
+Janos Slynt,1,4.25,0,5.25,3.75,0,0
+Locke,0,0,7,6,0,0,0
+Myranda,0,0,3.5,1.5,7.25,0.75,0
+Rodrik Cassel,10,2,0,0,0,0.75,0
+The Waif,0,0,0,0,4.5,8.25,0
+Benjen Stark,6.25,0,0,0,0,5.75,0.75
+Rast,4.25,0,4,4.5,0,0,0
+Rickon Stark,1.25,4.25,3.75,0,0,3.25,0
+Septa Unella,0,0,0,0,7.5,5,0
+Olly,0,0,0,3.25,7.25,2,0
+Doreah,9.5,3,0,0,0,0,0
+Balon Greyjoy,0,6.5,2.5,0,0,3.25,0
+Pypar,7,0,0.75,4.25,0,0,0
+Yoren,6,6,0,0,0,0,0
+Myrcella Baratheon,0.75,1.5,0,0,8,1.5,0
+Hizdahr zo Loraq,0,0,0,2,9.75,0,0
+Tyene Sand,0,0,0,0,7.25,1.25,3
+Mace Tyrell,0,0,0,3.75,3.5,4.25,0
+Robin Arryn,3.75,0,0,4.75,0.5,2.25,0
+Selyse Baratheon,0,0.25,2,5.25,3.75,0,0
+Karl Tanner,0,0,0,2.5,8.75,0,0
+Xaro Xhoan Daxos,0,10.5,0,0,0,0,0
+Irri,7,3,0,0,0,0,0
+Lady Crane,0,0,0,0,0,10,0
