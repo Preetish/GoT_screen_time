@@ -10,10 +10,9 @@ actor.s1 <- actor[,c(1,2)] %>%
   group_by(actor) %>%
   summarise_all(sum) %>%
   mutate(total = season.1) %>%
-  arrange(desc(total)) %>%
   
   # keep only top 10 & order by ID
-  filter(row_number() <= 11) %>%
+  filter(rank(desc(total), ties.method = "min") <= 10) %>%
   mutate(actor = factor(actor, levels = actor[order(total)])) %>%
   select(-total) %>%
   
@@ -26,10 +25,9 @@ actor.s2 <- actor[,c(1,3)] %>%
   group_by(actor) %>%
   summarise_all(sum) %>%
   mutate(total = season.2) %>%
-  arrange(desc(total)) %>%
   
   # keep only top 10 & order by ID
-  filter(row_number() <= 10) %>%
+  filter(rank(desc(total), ties.method = "min") <= 10) %>%
   mutate(actor = factor(actor, levels = actor[order(total)])) %>%
   select(-total) %>%
   
@@ -42,10 +40,9 @@ actor.s3 <- actor[,c(1,4)] %>%
   group_by(actor) %>%
   summarise_all(sum) %>%
   mutate(total = season.3) %>%
-  arrange(desc(total)) %>%
   
   # keep only top 10 & order by ID
-  filter(row_number() <= 10) %>%
+  filter(rank(desc(total), ties.method = "min") <= 10) %>%
   mutate(actor = factor(actor, levels = actor[order(total)])) %>%
   select(-total) %>%
   
@@ -58,10 +55,9 @@ actor.s4 <- actor[,c(1,5)] %>%
   group_by(actor) %>%
   summarise_all(sum) %>%
   mutate(total = season.4) %>%
-  arrange(desc(total)) %>%
   
   # keep only top 10 & order by ID
-  filter(row_number() <= 10) %>%
+  filter(rank(desc(total), ties.method = "min") <= 10) %>%
   mutate(actor = factor(actor, levels = actor[order(total)])) %>%
   select(-total) %>%
   
@@ -74,10 +70,9 @@ actor.s5 <- actor[,c(1,6)] %>%
   group_by(actor) %>%
   summarise_all(sum) %>%
   mutate(total = season.5) %>%
-  arrange(desc(total)) %>%
   
   # keep only top 10 & order by ID
-  filter(row_number() <= 10) %>%
+  filter(rank(desc(total), ties.method = "min") <= 10) %>%
   mutate(actor = factor(actor, levels = actor[order(total)])) %>%
   select(-total) %>%
   
@@ -90,10 +85,9 @@ actor.s6 <- actor[,c(1,7)] %>%
   group_by(actor) %>%
   summarise_all(sum) %>%
   mutate(total = season.6) %>%
-  arrange(desc(total)) %>%
   
   # keep only top 10 & order by ID
-  filter(row_number() <= 10) %>%
+  filter(rank(desc(total), ties.method = "min") <= 10) %>%
   mutate(actor = factor(actor, levels = actor[order(total)])) %>%
   select(-total) %>%
   
@@ -106,10 +100,9 @@ actor.s7 <- actor[,c(1,8)] %>%
   group_by(actor) %>%
   summarise_all(sum) %>%
   mutate(total = season.7) %>%
-  arrange(desc(total)) %>%
   
   # keep only top 10 & order by ID
-  filter(row_number() <= 10) %>%
+  filter(rank(desc(total), ties.method = "min") <= 10) %>%
   mutate(actor = factor(actor, levels = actor[order(total)])) %>%
   select(-total) %>%
   
