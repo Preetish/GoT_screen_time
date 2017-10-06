@@ -9,4 +9,4 @@ There are two datasets:
 2. Screen time of the nine most important houses
 
 ## Visualizations
-The result of the analyses can be accessed [here]().
+The result of the analyses can be accessed [here](https://thenextweb.com/contributors/2017/10/06/data-analysis-reveals-main-character-along-game-thrones/#.tnw_ODZXUMhZ).
